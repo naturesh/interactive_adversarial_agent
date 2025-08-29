@@ -53,8 +53,6 @@ Interactive_Adversarial_Agent ( 대화형 적대 에이전트 )
 
 ### 실행 및 결과 
 
-- 실행의 결과는 좋지 못했습니다.
-
 <img width="743" alt="image" src="https://github.com/user-attachments/assets/f1826386-6517-491a-959e-8219e97464d7" />
 
 
